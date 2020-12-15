@@ -11,7 +11,7 @@ The Notebook included the following:
     3. Using a regression model, split your data into train and test data.
     4. Fit your training split to the regression model.
     5. Show your regression model’s score.
-    6. Draw at least three conclusions from your regression model.
+    6. Draw three conclusions from your regression model.
 
 Packages:
     * `Pandas`.
