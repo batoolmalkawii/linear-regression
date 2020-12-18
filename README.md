@@ -1,4 +1,4 @@
-version 1.0 PR: https://github.com/batoolmalkawii/linear-regression/pull/1
+version 2.0 PR: https://github.com/batoolmalkawii/linear-regression/pull/2
 
 # Linear Regression 
 
